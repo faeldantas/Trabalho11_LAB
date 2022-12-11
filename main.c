@@ -68,6 +68,8 @@ void print(void** vet, int P){
 }
 
 int main(){
+	//cria uma variável de tamanho 10, 
+	//passando a função de comparação como parâmetro. 
    	VETORORD* vet = VETORD_create(10, myCOMP);
    	
    	int* x;
