@@ -9,12 +9,12 @@ remover elemento.
 
 O código deve ser executado seguindo os seguintes passos: 
 
-## Primeiros passos
+## Requisitos
 Primeiramente é necessário ter o `gcc` em sua máquina.
 
 ## Download
 ```
-
+$ git clone https://github.com/faeldantas/Trabalho10_LAB.git
 ```
 
 ## Gerar bibliotecas
