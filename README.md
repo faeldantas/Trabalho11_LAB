@@ -1,5 +1,5 @@
 # Trabalho11_LAB
-O código consiste em criar um vetor que se possa armazenar informações de forma ordenada, e que que tem as seguintes funções:
+O código consiste em criar uma estrutura que vetor que se possa armazenar informações de forma ordenada, e que que tem as seguintes funções:
 
 criar vetor;
 
@@ -9,5 +9,31 @@ remover elemento.
 
 O código deve ser executado seguindo os seguintes passos: 
 
-Logo apos baixados os arquivos "TR4_537800.c", "ordvetor.h" e "main.c", respectivamente,
-o usuário deverá executar o primeiro e segundo da seguinte forma   
+## Primeiros passos
+Primeiramente é necessário ter o `gcc` em sua máquina.
+
+## Download
+```
+
+```
+
+## Gerar bibliotecas
+```
+$ gcc -c TR4_537800.c
+```
+
+## Compilação
+```
+$ gcc ./TR4_537800.o ./main.c -o main
+``` 
+
+## Execução
+Linux:
+```
+$ ./main
+```
+
+Windows:
+```
+$ ./main.exe
+```
